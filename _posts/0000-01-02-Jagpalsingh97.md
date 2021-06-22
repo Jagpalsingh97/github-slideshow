@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+this is jagpal's slide
 Use the left arrow to go back!
 
 
